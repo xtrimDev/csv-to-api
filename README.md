@@ -16,5 +16,10 @@ Remove the existing csv file and add yours, with the same name as <i>"file.csv"<
   python app.py
 ```
 
+<b>To Access the api Go to</b>
+```bash
+  http://127.0.0.1:5000/data
+```
+
 ## Credits
 - [Sameer singh bhandari](https://github.com/xtrimDev/)
